@@ -1,4 +1,4 @@
-Daria Likhacheva (00754308)
+
 
 Kasper ist ein Chatbot, der basierend auf unseren Vorlieben Restaurants in Deggendorf 
 empfiehlt. 
