@@ -1,0 +1,100 @@
+{"answers": [
+    {
+      "intent": "Hallo",
+      "answer": "Schön, dass du da bist. Wie kann ich Dir helfen?"
+    },
+      
+    {
+      "intent":"essen",
+      "answer":"Möchtest Du liebe selbst kochen oder ins Restaurant gehen"
+    },
+
+    {"intent":"kochen" ,
+      "answer":"Ich kann Dir diese Seite empfehlen <a target='blank' style='color: #085440' href = 'https://www.chefkoch.de/'>Chefkoch.de</a>"
+     },
+    
+    {"intent":"koche",
+      "answer":"Gute Rezepte findest Du hier <a target='blank' style='color: #085440' href = 'https://www.chefkoch.de/'>Chefkoch.de</a>"
+    }, 
+
+    {
+      "intent":"restaurant",
+      "answer":"Welche Küche bevorzugst Du?"
+    },
+    
+    {
+      "intent":"europeische",
+      "answer":"Möchtest Du deutsches, italienisches oder vielleicht griechisches Essen?"
+    },
+
+    {
+      "intent":"griechische",
+      "answer":"Ich habe im <a target='blank' style='color: #085440' href = 'https://restaurantkouros.de/'>KOUROS</a> schon mehrere Male gegessen und das Restaurant gefällt mir sehr gut, ich hoffe, es gefällt Dir auch."
+    },
+    
+    {
+      "intent":"deutsches",
+      "answer":"Ich kann Restaurant <a target='blank' style='color: #085440' href = 'https://knoedelwerferin-deggendorf.de/'>Zur Knoedelwerferin</a> Dir empfehlen "
+    },
+
+    {
+      "intent":"italienische",
+      "answer":"Dieses Restaurant <a target='blank' style='color: #085440' href = 'http://www.ristorantedivino.de/RistoranteDivino/benvenuto.html'>DiVino</a> kocht molto saporito (sehr lecker)!!! Ja, ich spreche ein wenig Italienisch! :) "
+    },
+    
+    {
+      "intent":"asiatische",
+      "answer":"Hier ist ein tolles Restaurant <a target='blank' style='color: #085440' href = 'https://hongkong-wok-deggendorf.xregional.de/'>Hongkong-Wok</a> "
+      
+    }, 
+
+    {
+      "intent":"chinesische",
+      "answer":"Wenn Du chinesisches Essen möchtest, kann ich dieses Restaurant <a target='blank' style='color: #085440' href = 'https://hongkong-wok-deggendorf.xregional.de/'>Hongkong-Wok</a>  Dir empfehlen "
+    },
+
+    {
+      "intent":"indische",
+      "answer":"Ich kenne ein tolles indisches Restaurant <a target='blank' style='color: #085440' href = 'https://www.indisches-restaurant-deggendorf.de/'>SHIVA</a>. Schaue, wie hoch seine Bewertung ist. "
+    },
+
+    {
+      "intent": "Tschüss",
+      "answer": "Es war mir eine Freude, Dir zu helfen! Alles Gute!"
+    },
+
+    {
+      "intent": "danke",
+      "answer": "Gibt es sonst noch etwas, bei dem ich Dir helfen kann?"
+    },
+
+    {
+      "intent": "noch hilfe",
+      "answer": "Vielleicht hast Du noch weitere Fragen an mich? Ich beantworte sie gerne!"
+    },
+
+    {
+      "intent": "nein danke",
+      "answer": "Dann wünsche ich Dir noch einen schönen Tag. Tschüss!"
+    },
+
+    {
+      "intent": "ja",
+      "answer": "Ich helfe Dir gerne! Frage bitte!"
+    },
+
+    {
+      "intent": "wie geht es",
+      "answer": "Ich freue mich sehr, dass Du dich für mich interessierst, aber lass mich Dir helfen."
+    },
+
+    {
+      "intent": "andere stadt",
+      "answer": "Tut mir leid, aber ich kenne nur Restaurants in Deggendorf. Kann ich trotzdem irgendwie helfen?"
+    }
+
+
+
+ 
+  ]
+}

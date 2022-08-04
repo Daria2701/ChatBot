@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang = "de">
+    <head> 
+      <meta charset="utf-8">
+      <title>ChatBot Kasper</title>
+      <script src="/js/jquery.js"></script>
+      <script src="/js/ChatBot_Kasper.js"></script>
+      <link href="css/style.css" rel = "stylesheet">  
+      <link href="https://fonts.googleapis.com/css2?family=Baloo+2&display=swap" rel="stylesheet">
+      <meta name = "viewport" content="width=device-width, initial-scale=1.0"/>
+      
+    </head>
+    <body>
+        
+    <div button id=1 onclick="stateChange()" class = "chat">Chat mit mir</button></div>
+    <div id=2 style="display: none">
+        <form id="chatForm" class="chatForm">
+            <div class = "title-container">
+                <div class="title"><h3>Chat-Bot</h3></div>
+            </div>
+            <br> 
+            <div id = "messageBody" class = "chat-window-container">
+                <div  class="chat-window">  
+                    <div class = avatar_bot><img src="/resources/2.png"></div>  
+                    <div class="chat-window-mini msg-bot">Hallo! Ich bin Kasper. Wie kann ich Dir helfen?</div> 
+                </div>      
+                <div id="messages" class="messages">
+                    <div class = "avatar_human"></div>
+                </div>
+            </div>     
+            <div class="input-container">
+                <input id="msg" class="form-control" autocomplete="off" type="text" placeholder="Nachricht eingeben..." />
+                <button id="send" class="weg">Send</i></button>
+            </div>
+        </form>
+    </div>
+    <script src="/js/ChatBot_Kasper.js"></script>   
+    </body>
+</html>
+
+
+
+
+
+
+
+
